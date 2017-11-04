@@ -1,0 +1,36 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+#theme: jekyll-theme-slate
+
+
+title: Virginia Rutten
+description: > # graduate student at the Gatsby Computational Neuroscience Unit
+  Reading and writing
+  
+email: gin.rutten@gmail.com
+
+#blog logo
+logo: "/assets/images/test.png"
+
+# blog cover
+cover: "/assets/images/test.png"
+
+
+name: 'Virginia Rutten'
+author: 'Virginia RUTTEN'
+author_image: "/assets/images/test.png"
+
+paginate:	5
+
+#  - icon:	facebook
+#    url:	https://facebook.com/samyonski
+#    desc: Connect with me on facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+    
+    
+baseurl: "/blob/master"
+url: "https://github.com/vrutten/vrutten.github.io"

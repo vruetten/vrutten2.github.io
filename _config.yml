@@ -2,27 +2,34 @@
 markdown: redcarpet
 highlighter: pygments
 
-#theme: jekyll-theme-slate
+# Site settings
+title: "Sam Yonski"
+description: > # this means to ignore newlines until "email:"
+   Reading and writing...
 
-
-title: Virginia Rutten
-description: > # graduate student at the Gatsby Computational Neuroscience Unit
-  Reading and writing
-  
-email: gin.rutten@gmail.com
-
+email: sam.yonski@gmail.com
 #blog logo
-logo: "/assets/images/test.png"
-
+logo: "/assets/images/sam_yonski_logo.png"
 # blog cover
-cover: "/assets/images/test.png"
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-
-name: 'Virginia Rutten'
-author: 'Virginia RUTTEN'
-author_image: "/assets/images/test.png"
+name: 'Sam Yonski'
+author: 'Sam Yonski'
+author_image: "/assets/images/author.jpg"
 
 paginate:	5
+
+url: "http://myblog.***.***" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/samyonski
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/samyonski
@@ -30,7 +37,17 @@ paginate:	5
 #    share_url: //www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
-    
-    
-baseurl: "/blob/master"
-url: "https://github.com/vrutten/vrutten.github.io"
+
+#  - icon:	github
+#    url:	https://github.com/dirkfabisch
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
