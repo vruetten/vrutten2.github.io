@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: short_story
+categories: article
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 
