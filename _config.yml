@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Virginia Rutten
 description: graduate student at the Gatsby Computational Neuroscience Unit
+baseurl: "/"
+url: "https://github.com/vrutten/vrutten.github.io"
