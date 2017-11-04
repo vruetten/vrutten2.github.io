@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Virginia Rutten"
 description: > # this means to ignore newlines until "email:"
-   Reading and writing...
+   
 
 email: gin.rutten@gmail.com
 #blog logo
