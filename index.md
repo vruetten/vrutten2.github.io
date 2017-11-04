@@ -1,6 +1,3 @@
-Home
-## More to come soon (perhaps)
 
-
-
-[Link](https://github.com/vrutten) and ![Image](https://github.com/vrutten/vrutten.github.io/blob/master/src/test.png)
+## More to come soon 
+[Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/)
