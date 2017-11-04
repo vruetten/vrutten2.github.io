@@ -10,4 +10,4 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/vrutten) and ![Image](src)
+[Link](https://github.com/vrutten) and ![Image](https://github.com/vrutten/vrutten.github.io/blob/master/src/test.png)
