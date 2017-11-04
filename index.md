@@ -1,6 +1,6 @@
-# Hello World
-## Header 2
-### Header 3
+### Home
+## Virginia Rutten
+### Graduate student
 
 - Bulleted
 - List
