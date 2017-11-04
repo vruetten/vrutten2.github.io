@@ -1,5 +1,4 @@
 Home
-## Virginia Rutten
 ### Graduate student
 
 
