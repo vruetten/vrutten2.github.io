@@ -3,8 +3,9 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Virginia Rutten"
-description: > # this means to ignore newlines until "email:"
+title: "Deep Fish project"
+
+description: Hi. This blog will be a log of my progress in building an automated fish training tank.
    
 
 email: gin.rutten@gmail.com
