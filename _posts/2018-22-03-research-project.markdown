@@ -2,7 +2,7 @@
 layout: post
 categories: article
 title: 'Step 1: setting the flow'
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image: /assets/article_images/pavlov_dog.jpg
 published: true
 ---
 
