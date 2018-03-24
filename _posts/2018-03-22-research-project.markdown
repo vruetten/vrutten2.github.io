@@ -18,6 +18,9 @@ Training an agent using reinforcement learning pivots on being able to deliver p
 ### Solution:
 To overcome this the tank will have circulating water which will remove any uneaten food, making the delivery of food more akin to an "impulse". The idea was inspried by this interesting [paper](https://www.sciencedirect.com/science/article/pii/S016643281730801X)
 
+This is a test for gifs:
+![test](/assets/article_images/sheepy.gif)
+
 
 
 
