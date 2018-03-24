@@ -29,17 +29,20 @@ published: true
     </div>
 </header>
 
-	<h1>This is a Heading</h1>
-   <button>Click me</button>
-  <a href="https://www.w3schools.com">This is a link</a>
-  <img src="assets/article_images/sheepy.gif">
+
   
 
 <main class="content" role="main">
 
     {% if site.tags.featured %}
     <h5 class="index-headline featured"><span>Featured</span></h5>
-
+  
+	<h1>This is a Heading</h1>
+   <button>Click me</button>
+  <a href="https://www.w3schools.com">This is a link</a>
+  <img src="assets/article_images/sheepy.gif">
+  
+  
     <div class="container featured">
       {% for post in site.tags.featured %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
