@@ -29,24 +29,22 @@ published: true
     </div>
 </header>
 
-
-  
+<div>
+<nav class="nav">
+<ul>
+  <li><a href="#">London</a></li>
+  <li><a href="#">Paris</a></li>
+  <li><a href="#">Tokyo</a></li>
+</ul>
+</nav>
+</div>
 
 <main class="content" role="main">
-
     {% if site.tags.featured %}
     <h5 class="index-headline featured"><span>Featured</span></h5>
   
-
-  
-  
     <div class="container featured">
-        
-	<h1>This is a Heading</h1>
-   <button>Click me</button>
-  <a href="https://www.w3schools.com">This is a link</a>
-  <img src="assets/article_images/sheepy.gif">
-      
+ 
       {% for post in site.tags.featured %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
