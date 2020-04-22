@@ -3,39 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://vrutten.github.io/author/aleberto-bernacchia/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://vrutten.github.io/authors/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://vrutten.github.io/author/guillaume-hennequin/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>https://vrutten.github.io/talk/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://vrutten.github.io/talk/2020_cosyne/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://vrutten.github.io/author/virginia-rutten/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://vrutten.github.io/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://vrutten.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://vrutten.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/author/virginia-rutten/</loc>
   </url>
   
 </urlset>
