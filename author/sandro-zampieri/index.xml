@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandro Zampieri | Virginia Rutten</title>
+    <link>https://vrutten.github.io/author/sandro-zampieri/</link>
+      <atom:link href="https://vrutten.github.io/author/sandro-zampieri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandro Zampieri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vrutten.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sandro Zampieri</title>
+      <link>https://vrutten.github.io/author/sandro-zampieri/</link>
+    </image>
+    
+    <item>
+      <title>Efficient communication over complex dynamical networks: the role of matrix non-normality</title>
+      <link>https://vrutten.github.io/post/baggio/baggio2020/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://vrutten.github.io/post/baggio/baggio2020/</guid>
+      <description>&lt;!-- Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Efficient communication over complex dynamical networks: the role of matrix non-normality</title>
+      <link>https://vrutten.github.io/projects/baggio/baggio2020/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://vrutten.github.io/projects/baggio/baggio2020/</guid>
+      <description>&lt;!-- Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Efficient communication over complex dynamical networks: the role of matrix non-normality</title>
+      <link>https://vrutten.github.io/publication/baggio/baggio2020/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://vrutten.github.io/publication/baggio/baggio2020/</guid>
+      <description>&lt;!-- Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page. --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
